@@ -1,0 +1,2 @@
+Hits/HitsBase || ITS : 1.0 | TOF : 1.0 | EMC : 0.9962358845671268 | TRD : None | PHS : 1.0 | FT0 : None | HMP : 1.0 | MFT : 1.0 | FDD : 0.9911555748876323 | FV0 : 0.9996315401621223 | MCH : 1.0 | MID : 1.0 | CPV : 1.0 | ZDC : None | TPC : 0.9935046975423618 | 
+ Steps/Steps_Base : 0.9123597920274771

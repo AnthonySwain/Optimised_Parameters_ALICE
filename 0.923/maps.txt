@@ -1,0 +1,6 @@
+[All]|positiveZmap0.root
+[All]|positiveZmap1.root
+[All]|negativeZmap0.root
+[All]|negativeZmap1.root
+[All]|negativeZmap2.root
+[All]|MainBarrelMap.root
